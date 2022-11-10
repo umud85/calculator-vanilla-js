@@ -9,4 +9,4 @@ Authors:
 - Umut Akbayin
 - Burhan Uzun (@BxrXPK)
 - Yasin Uzun
-- Joel Buchholz
+- Joel Buchholz (@Joel-Buchholz)
