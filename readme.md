@@ -7,6 +7,6 @@
 #### 
 Authors: 
 - Umut Akbayin
-- Burhan Uzun
+- Burhan Uzun (@BxrXPK)
 - Yasin Uzun
 - Joel Buchholz
