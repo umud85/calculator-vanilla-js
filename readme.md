@@ -1,7 +1,7 @@
 ## Calculator
 ---
 
-### This is a basic calculator with Vanilla JS and DOM API
+### This is a basic calculator with Vanilla JS
 
 
 #### 
